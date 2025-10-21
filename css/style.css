@@ -1,0 +1,53 @@
+body {
+    background-color:#cecece;
+    margin:0;
+}
+
+.titulo {
+    text-align:center;
+    color:blueviolet;
+    font-size:40px;
+}
+
+.faq {
+    text-align:center;
+}
+
+.imagem-timeline {
+    display:block;
+    height:85%;
+    width:85%;
+    border: black 2px double;
+}
+
+.timeline {
+    background-color:rgb(141, 209, 209);
+    margin-right: 25%;
+    padding: 0 0.6%;
+    border-radius: 5px;
+    box-shadow: 5px 5px steelblue;
+}
+
+a {
+    color:antiquewhite
+}
+
+main {
+    background-color:rgb(182, 108, 252);
+    margin: -8px 4%;
+    padding: 1px 10px 3px;
+    border-radius:20px 20px 0px 0px;
+    border:black 2px solid;
+    border-bottom-width:0;
+}
+
+footer {
+    a {
+        color:blue
+    }
+    margin-left: 1%
+}
+
+.relatos {
+    display: flex;
+}
