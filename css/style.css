@@ -48,6 +48,19 @@ footer {
     margin-left: 1%
 }
 
-.relatos {
-    display: flex;
+
+.conteiner {
+    display:flex;
+    margin-bottom:-3%;
 }
+
+.moldura {
+    width: 2750px;
+    margin-top:5%;
+}
+
+.imagem-relatos {
+    width: 100%;
+    object-fit: cover;
+}
+
