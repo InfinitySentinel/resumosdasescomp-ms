@@ -48,9 +48,26 @@ footer {
     margin-left: 1%
 }
 
+.imagem-relatos {
+    width:60%;
+}     
+
 .legenda-imagem {
     font-size:18px;
-    margin: 5px auto auto 30px;
+    margin: 5px auto auto 5%;
 }
 
 
+.TW-box {
+    background-color:rgb(129, 129, 129);
+    border-radius:5px;
+    margin: 2% 0 2%;
+    padding: 1%;
+    width: 50%;
+    box-shadow: 5px 5px rgb(73, 73, 73);
+}
+
+.imagens-lado-a-lado {
+    display:flex;
+    align-items:center;
+}
